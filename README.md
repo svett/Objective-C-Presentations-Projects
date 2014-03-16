@@ -1,4 +1,4 @@
 Objective-C-Presentations-Projects
 ==================================
 
-XCode projects for Objective-C for iOS workshop
+XCode demo & lab projects of Objective-C for iOS workshop
